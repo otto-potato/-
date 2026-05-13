@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">云上柜周</string>
+    <string name="home">首页</string>
+    <string name="wardrobe">衣柜</string>
+    <string name="add_clothing">添加衣物</string>
+    <string name="settings">设置</string>
+    <string name="history">推荐历史</string>
+    <string name="today_recommendation">今日推荐</string>
+    <string name="ai_analyze">AI分析</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="washing">清洗中</string>
+    <string name="mark_washing">标记为清洗中</string>
+    <string name="mark_clean">标记为已清洗</string>
+    <string name="consecutive_wear">连续穿着</string>
+    <string name="days">天</string>
+    <string name="no_clothing">衣柜是空的</string>
+    <string name="no_recommendation">还没有今日推荐</string>
+    <string name="generate_recommendation">AI推荐</string>
+    <string name="ai_config_prompt">请提供您的AI模型API信息</string>
+    <string name="weather_location">天气位置</string>
+    <string name="daily_auto_recommend">每日自动推荐</string>
+    <string name="daily_auto_desc">每天凌晨3点自动生成穿搭推荐</string>
+</resources>
